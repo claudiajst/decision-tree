@@ -17,11 +17,9 @@ It shows the distribution of sepal:
 It shows the distribution of petal:
 ![Petal distribution](image/petal_dist.png)
 
-
 ## Decision Tree
 The decison tree:
 ![Decision Tree](image/decision_tree.png)
-
 
 ## About Internship
 <b>Position</b> | Data Science and Business Analytics
