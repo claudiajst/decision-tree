@@ -25,5 +25,7 @@ The decison tree:
 
 ## About Internship
 <b>Position</b> | Data Science and Business Analytics
+
 <b>Duration</b> | One Month
+
 <b>Type</b> | Online (Work from Home)
